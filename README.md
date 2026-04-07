@@ -18,7 +18,7 @@
 
 ### 🛠️ Experienced with
 * #### Verilog, VHDL, C, C++
-* #### Microcontroller units (ESP)
+* #### Microcontroller units (ESP, Atmega, STM)
 * #### MATLAB & Automation
 
 <br>

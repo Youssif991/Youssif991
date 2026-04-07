@@ -12,9 +12,7 @@
 
 ###
 
-<img align="right" height="304" src="https://media1.tenor.com/m/scJnQ8030cIAAAAC/ben-10-omniverse.gif" />
-
-
+<img align="right" height="450" src="https://media1.tenor.com/m/scJnQ8030cIAAAAC/ben-10-omniverse.gif" />
 
 **🔭 Currently working on**
 * NAND to Tetris
@@ -37,12 +35,12 @@
 <br>
 
 ### 🛠️ Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c" /> <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++" /> <img width="10" />
-<img src="https://www.svgrepo.com/show/374163/verilog.svg" height="30" alt="verilog" /> <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" /> <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab" /> <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c" /> <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="c++" /> <img width="10" />
+<img src="https://www.svgrepo.com/show/374163/verilog.svg" height="35" alt="verilog" /> <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" /> <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" alt="matlab" /> <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino" />
 
 ### 🔗 Socials
 <a href="https://www.linkedin.com/in/youssif-mohamed-1a807432b/" target="_blank">

@@ -41,6 +41,6 @@
 
 ###
 
-<h6 align="left">🔭 Currently working on<br>NAND to Tetris<br>MIPS Processor<br><br>🌱 Learning<br>Computer architecture<br>System Verilog<br>Digital Hardware verification<br><br>🛠️ Experienced with<br>Verilog<br>VHDL<br>C<br>C++<br>Microcontroller units<br>ESP<br>MATLAB & Automation</h6>
+<p align="left">🔭 Currently working on<br>NAND to Tetris<br>MIPS Processor<br><br>🌱 Learning<br>Computer architecture<br>System Verilog<br>Digital Hardware verification<br><br>🛠️ Experienced with<br>Verilog<br>VHDL<br>C<br>C++<br>Microcontroller units<br>ESP<br>MATLAB & Automation</p>
 
 ###

@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="450" src="https://media1.tenor.com/m/scJnQ8030cIAAAAC/ben-10-omniverse.gif" />
+<img align="right" height="480" src="https://media1.tenor.com/m/scJnQ8030cIAAAAC/ben-10-omniverse.gif" />
 
 ### 🔭 Currently working on
 * #### NAND to Tetris
@@ -17,7 +17,7 @@
 
 ### 🛠️ Experienced with
 * #### Verilog, VHDL, C, C++
-* #### Microcontroller units (ESP, Atmega, STM)
+* #### Microcontroller units (ESP)
 * #### MATLAB & Automation
 
 <br>
@@ -37,6 +37,15 @@
 <a href="https://discord.com/users/335793152394788866" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="40" alt="discord" />
 </a>
+
+<br clear="right" />
+
+###
+
+### 👤 About Me
+* #### I am a passionate Electronics and Electrical Communication Engineering student at Cairo University (CUFE). 
+* #### My focus lies in Digital Design and Computer Architecture, bridging the gap between low-level hardware and efficient computation.
+* #### I enjoy tackling complex logic problems, from designing MIPS processors to exploring the fundamentals of computing through NAND to Tetris.
 
 <br>
 

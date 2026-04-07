@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">Junior Electronics and Communication Engineering student</h3>
 
+- 🛠️ Worked with **Matlab, C, C++, VHDL, Verilog**
+
+- 🌱 Currently learning **SystemVerilog, Digital verification**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/youssif-mohamed-1a807432b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssif-mohamed-1a807432b/" height="30" width="40" /></a>

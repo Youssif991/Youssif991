@@ -44,8 +44,8 @@
 
 ### 👤 About Me
 * #### I am a passionate Electronics and Electrical Communication Engineering student at Cairo University (CUFE). 
-* #### My focus lies in Digital Design and Computer Architecture, bridging the gap between low-level hardware and efficient computation.
-* #### I enjoy tackling complex logic problems, from designing MIPS processors to exploring the fundamentals of computing through NAND to Tetris.
+* #### I love learning about Digital IC design, FPGA Design, ASIC Design, and Embedded systems.
+* #### I enjoy tackling complex logic problems, and working on project to expand my skills and learn more.
 
 <br>
 

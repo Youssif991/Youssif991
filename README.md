@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="304" src="https://media1.tenor.com/m/7KISF1Z9p5QAAAAC/ben10-omnitrix.gif" />
+<img align="right" height="304" src="https://media1.tenor.com/m/scJnQ8030cIAAAAC/ben-10-omniverse.gif" />
 
 ###
 

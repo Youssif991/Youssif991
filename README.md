@@ -12,9 +12,27 @@
 
 ###
 
+<img align="right" height="304" src="https://media1.tenor.com/m/scJnQ8030cIAAAAC/ben-10-omniverse.gif" />
+
+**🔭 Currently working on**
+* NAND to Tetris
+* MIPS Processor
+
+**🌱 Learning**
+* Computer architecture
+* System Verilog
+* Digital Hardware verification
+
+**🛠️ Experienced with**
+* Verilog
+* VHDL
+* C
+* C++
+* Microcontroller units
+* ESP
+* MATLAB & Automation
+
 <div align="right">
-  <img height="304" src="https://media1.tenor.com/m/scJnQ8030cIAAAAC/ben-10-omniverse.gif" />
-  
   <h4>Skills</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="5" />
@@ -35,26 +53,7 @@
   <a href="https://discord.com/users/335793152394788866" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  
   <p>📫 <b>youssefx12xx@gmail.com</b></p>
 </div>
-
-**🔭 Currently working on**
-* NAND to Tetris
-* MIPS Processor
-
-**🌱 Learning**
-* Computer architecture
-* System Verilog
-* Digital Hardware verification
-
-**🛠️ Experienced with**
-* Verilog
-* VHDL
-* C
-* C++
-* Microcontroller units
-* ESP
-* MATLAB & Automation
 
 ###

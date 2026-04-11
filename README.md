@@ -9,25 +9,29 @@
 
 ### 🔭 Currently working on
 
-*  NAND to Tetris
+* NAND to Tetris
   
-*  MIPS Processor
+* MIPS Processor
 
 ### 🌱 Learning
 
-*  Computer architecture
+* Computer architecture
   
-*  System Verilog
+* System Verilog
   
-*  Digital Hardware verification
+* Digital Hardware verification
 
 ### 🛠️ Experienced with
 
-*  Verilog, VHDL, C, C++
+* Programming languages/ HDLs : Verilog, VHDL, C, C++
+
+* Tools : Vivado, Cadence Virtuoso, Proteus, ModelSim, MultiSim
   
-*  Microcontroller units (ESP, Atmega, STM)
+* Microcontroller units (ESP, Atmega, STM)
   
-*  MATLAB & Automation
+* MATLAB & Automation
+  
+* LaTeX
 
 <br>
 
@@ -37,7 +41,9 @@
 <img src="https://www.svgrepo.com/show/374163/verilog.svg" height="40" alt="verilog" /> <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" /> <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab" /> <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" /> <img width="10" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/AMD_Vivado_logo.svg/960px-AMD_Vivado_logo.svg.png?_=20241121171952" height="40" alt="vivado" /> <img width="10" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png" height="40" alt="latex" />
 
 ## 🔗 Socials
 <a href="https://www.linkedin.com/in/youssif-mohamed-1a807432b/" target="_blank">
@@ -52,9 +58,9 @@
 
 
 ## 👤 About Me
-*  I am a passionate Electronics and Electrical Communication Engineering student at Cairo University (CUFE). 
-*  I love learning about Digital IC design, FPGA Design, ASIC Design, and Embedded systems.
-*  I enjoy tackling complex logic problems, and working on project to expand my skills and learn more.
+* I am a passionate Electronics and Electrical Communication Engineering student at Cairo University (CUFE). 
+* I love learning about Digital IC design, FPGA Design, ASIC Design, and Embedded systems.
+* I enjoy tackling complex logic problems, and working on project to expand my skills and learn more.
 
 <br> 
 
